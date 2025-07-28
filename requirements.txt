@@ -3,3 +3,5 @@
  numpy 
  scikit-learn 
  streamlit
+ keras
+ scikeras==0.12.0
